@@ -7,7 +7,7 @@ Systems Engineering Student
 I'm a Systems Engineering student passionate about coding, problem-solving, and technology innovation. I enjoy debugging, identifying the root cause of issues, and crafting efficient solutions. My goal is to keep learning and growing as a developer while contributing to meaningful projects.
 
 * 🌍  I'm based in Costa Rica
-* ✉️  You can contact me at [kendra.artavia.caballero@gmail.com](mailto: kendra.artavia.caballero@gmail.com)
+* ✉️  You can contact me at kendra.artavia.caballero@gmail.com
 * 🧠  I'm learning Angular , Linux
 
 ### Skills
